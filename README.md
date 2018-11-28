@@ -1,17 +1,17 @@
 # Algorithms
 
-#INCLUDES
+## INCLUDES
 
-MergeSort
+-MergeSort
 
-InsertionSort
+-InsertionSort
 
-QuickSort
+-QuickSort
 
-#Graph Algorithms
+## Graph Algorithms
 
-Kruskal's Algorithm (undirected)
+-Kruskal's Algorithm (undirected)
 
-Prim's Algorithm (undirected)
+-Prim's Algorithm (undirected)
 
-Dijkstra's Algorithm (undirected)
+-Dijkstra's Algorithm (undirected)
